@@ -43,7 +43,7 @@ You’ll collaborate with your team to define a problem, brainstorm solutions, a
 Click a step below to open detailed instructions:  
 
 <div style="margin-left: 20px;">
-  <h3><a href="Instructions/Labs/1-kickoff-and-team-formation.html">Step 1: Kickoff & Team Formation</a></h3>
+  <h3><a href="Instructions/Labs/1-kickoff-and-team-formation.md">Step 1: Kickoff & Team Formation</a></h3>
   <h3><a href="Instructions/Labs/2-define-the-challenge.html">Step 2: Define the Challenge</a></h3>
   <h3><a href="Instructions/Labs/3-break-down-the-problem.html">Step 3: Break Down the Problem</a></h3>
   <h3><a href="Instructions/Labs/4-explore-ai-solutions.html">Step 4: Explore AI Solutions</a></h3>
