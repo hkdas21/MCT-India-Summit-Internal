@@ -40,7 +40,7 @@ To keep your team’s ideas organized - and to ensure your final submission is c
 
 Have one person from your team:  
 
-- Open the <a href="[https://github.com/MicrosoftLearning/Frontier-Hack-Event/raw/refs/heads/master/Resourcefiles/MCT Hack Template.docx](https://github.com/hkdas21/MCT-India-Summit-Internal/blob/master/Resourcefiles/MCT%20Hack%20Template.docx)" target="_blank">MCT Summit Hack Event Template</a>.
+- Open the <a href="[https://github.com/MicrosoftLearning/Frontier-Hack-Event/raw/refs/heads/master/Resourcefiles/MCT Hack Template.docx]" target="_blank">MCT Summit Hack Event Template</a>.
 - Download the template—it should now appear in your 'Downloads' folder.
 - Open the file and **enable editing** if prompted.  
 
