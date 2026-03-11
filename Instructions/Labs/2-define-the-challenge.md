@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'WWL Frontier Hack Event – Define the Challenge'
+    title: 'MCT India Summit- Frontier Hack Event – Define the Challenge'
 ---
 
 ## Step 2: Define the Challenge
