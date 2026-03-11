@@ -63,6 +63,6 @@ These tools can support your team during the Hack Event . They’re not required
 
 ## 🎯 By the End, Your Team Will Have
 
-- A **clear problem statement**  
-- An **AI-driven solution idea**  
+- A **clear problem statement Affecting MCTs**  
+- An **AI-driven solution idea that solves problem for MCT PreDelivery, In delivery or Post Delivery**  
 - A **polished Solution** submitted for judging  
