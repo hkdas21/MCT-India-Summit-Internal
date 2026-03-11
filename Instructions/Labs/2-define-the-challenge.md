@@ -7,12 +7,12 @@ task:
 
 **Suggested time:** 10 minutes  
 
-As a team, **identify and agree on one common challenge** to focus on for the rest of the Frontier Hack Event. This could be something simple, like scheduling meetings, or something complex — for example, processes tied to multiple systems, sensitive data, or compliance requirements. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.
+As a team, **identify and agree on one common challenge** to focus on for the rest of the Frontier Hack Event. This could be something simple, like using Copilot to create Quizzes, or something complex — for example, creating a multi agent learning solution. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.
 
 You'll complete the following tasks:
 
 - Explore challenges or opportunities in your work environment  
-- Prioritize them against business priorities  
+- Prioritize them against MCT priorities  
 - Select one challenge to carry forward as your problem statement  
 
 > **Note:** Complete all tasks in this step before moving forward. Sample prompts are just a starting point — adapt or create your own, and refine until Copilot delivers the results you need.
@@ -34,14 +34,14 @@ Each team member will start by using **Copilot Chat** to identify common challen
   **Sample Prompt:**  
 
     ```text
-    I’m investigating common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from my Teams chats and emails related to [your role focus, i.e., content development, technical training, program management]. Summarize the key issues or pain points mentioned in the last 6 months and limit the output to the top 3 most relevant issues only. Show the results in a table with: 
+    I’m investigating common day-to-day issues I face during training, such as time management, Class Engagement, Learner retentuon as an MCT. Look at recent conversations from my Teams chats and emails related to [your role focus, i.e., content development, technical training, program management]. Summarize the key issues or pain points mentioned in the last 6 months and limit the output to the top 3 most relevant issues only. Show the results in a table with: 
      
     - Title: Short label for the issue  
     - Problem Statement: Write each as a clear and concise statement of the challenge  
     - Frequency: How often it comes up (e.g., number of mentions) 
     ```  
 
-  > **Note:** Replace the text within brackets with your specific role focus (e.g., program management).  
+  > **Note:** Replace the text within brackets with your specific role focus (e.g.,Courseware rampup).  
 
   > **Tip:**
   >
