@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'WWL Frontier Hack Event – Submit Your Idea'
+    title: 'MCT India Summit- Frontier Hack Event – Submit Your Idea'
 ---
 
 ## Step 6: Submit Your Idea
