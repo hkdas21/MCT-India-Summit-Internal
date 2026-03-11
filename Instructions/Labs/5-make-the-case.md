@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'WWL Frontier Hack Event – Make the Case'
+    title: 'MCT India Summit- Frontier Hack Event – Make the Case'
 ---
 
 ## Step 5: Make the Case
