@@ -4,29 +4,29 @@ permalink: index.html
 layout: home
 ---
 
-Welcome to the **WWL Frontier Hack Event**!  
+Welcome to the **MCT India Summit Frontier Hack Event**!  
 
-This Hack Event  is about exploring how AI can help us tackle real challenges at work.  
+This Hack Event  is about exploring how AI can help us tackle real challenges as an MCT.  
 
-You’ll collaborate with your team to define a problem, brainstorm solutions, and craft a solution — with the help of your Table Coach and AI.  
+You’ll collaborate with your team to define a problem, brainstorm solutions, and craft a solution that an MCT faces — with the help of your Table Coach and Copilot.  
 
-> **Goal:** Accelerate alignment on the Frontier Firm concept and generate problem statements and solution ideas that could one day inform agent development. This exercise is about the process — framing challenges, collaborating, and ideating together — not about delivering a finished agent.
+> **Goal:** Accelerate alignment on the Frontier Firm concept and generate problem statements and solution ideas that help an MCT in Future deliveries. This exercise is about the process — framing challenges, collaborating, and ideating together.
 
 ## 🔄 Event Flow
 
 *(Suggested total time: 70 minutes)*
 
 - **Kickoff & Q&A** → Meet your team and coach  
-- **Group Work** → Define a problem, break it down, brainstorm solutions  
+- **Group Work** → Define a problem an MCT faces pre-delivery, in delivery or post delivery, break it down, brainstorm solutions  
 - **Submission** → Complete and upload your Hack Event Template  
-- **Prizes** → Submissions scored by *AI* and reviewed by judges  
+- **Prize** → Submissions scored by *AI* and reviewed by judges  
 
 ## 📝 What to Know
 
 - **Prizes:** Final submission required to qualify. Submissions will be evaluated across the following criteria:
 
     - Strategic Alignment  
-    - Quantifiable Business Value  
+    - Quantifiable Value  for the MCTs
     - Team Impact  
     - Sustainability & Scalability  
     - Outcome Clarity
