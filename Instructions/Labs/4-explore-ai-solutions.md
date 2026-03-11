@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'WWL Frontier Hack Event – Explore AI Solutions'
+    title: 'MCT India Summit- Frontier Hack Event – Explore AI Solutions'
 ---
 
 ## Step 4: Explore AI Solutions  
