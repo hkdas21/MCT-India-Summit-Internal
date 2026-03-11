@@ -40,7 +40,7 @@ To keep your team’s ideas organized - and to ensure your final submission is c
 
 Have one person from your team:  
 
-- Open the <a href="https://github.com/MicrosoftLearning/Frontier-Hack-Event/raw/refs/heads/master/Resourcefiles/HackEventTemplate.docx" target="_blank">Hack Event Template</a>.
+- Open the <a href="https://github.com/MicrosoftLearning/Frontier-Hack-Event/raw/refs/heads/master/Resourcefiles/MCT Hack Template.docx" target="_blank">Hack Event Template</a>.
 - Download the template—it should now appear in your 'Downloads' folder.
 - Open the file and **enable editing** if prompted.  
 
