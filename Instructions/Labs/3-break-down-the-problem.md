@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'WWL Frontier Hack Event – Break Down the Problem'
+    title: 'MCT India Summit- Frontier Hack Event – Break Down the Problem'
 ---
 
 ## Step 3: Break Down the Problem  
