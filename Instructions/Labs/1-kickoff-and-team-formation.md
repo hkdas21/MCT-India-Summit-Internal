@@ -13,8 +13,7 @@ You'll complete the following tasks:
 
 - Introduce yourself to your team members and identify your table coach  
 - Come up with a team name  
-- Create a Team Worksheet  
-- Set your team’s collaboration style  
+- Update the Team MCT Hackathon Template   
 
 > **Note:** please complete all the tasks in this step before moving forward
 
@@ -49,19 +48,6 @@ Optionally, to make collaboration easier:
 - In the top-right corner, select **Share** > **Share...**.  
 - If prompted *“Please upload your document to share it”*, choose your Microsoft OneDrive account.  
 - In the new window that appears, select **Copy link** and share it with your teammates.  
-
-### Task 4: Collaboration (Optional)  
-
-If helpful, assign roles to structure your collaboration. Multiple people can share the same role, or you may skip this step if your team prefers to stay fluid.  
-
-**Suggested roles:**  
-
-- **Problem Compiler:** Collects and organizes challenges into a list.  
-- **Prompt Runners:** Operates Copilot on behalf of the team (we suggest at least 2 people running prompts).  
-- **Note Taker:** Captures key ideas and drafts the problem statement.  
-- **Time Keeper:** Keeps the team on track with the schedule.
-
-**Consider starting a Teams group chat with your teammates to make it easier to share prompt results later.**
 
 ## Your Output  
 
