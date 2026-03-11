@@ -1,13 +1,13 @@
 ---
 task:
-    title: 'WWL Frontier Hack Event – Kickoff & Team Formation'
+    title: 'MCT India Summit- Frontier Hack Event – Kickoff & Team Formation'
 ---
 
 ## Step 1: Kickoff & Team Formation
 
 **Suggested time:** 10 minutes
 
-You'll start the Frontier Hack Event  by meeting your team members and Table Coach. This is your chance to build rapport and set the tone for how you’ll collaborate during the rest of the session. By the end, your team should feel comfortable working together and ready to dive into problem-solving.  
+You'll start the MCT Frontier Hack Event  by meeting your team members and Table Coach. This is your chance to build rapport and set the tone for how you’ll collaborate during the rest of the session. By the end, your team should feel comfortable working together and ready to dive into problem-solving.  
 
 You'll complete the following tasks:  
 
@@ -34,7 +34,7 @@ Work together to come up with a team name that represents your group. Keep it fu
 
 ### Task 3: Download your Teams Hack Event Template
 
-Throughout the Frontier Hack Event, you’ll be capturing notes and outputs from each step.  
+Throughout the MCT Frontier Hack Event, you’ll be capturing notes and outputs from each step.  
 
 To keep your team’s ideas organized - and to ensure your final submission is complete - use the provided **Hack Event Template**.  
 
